@@ -8,7 +8,7 @@
 
 ![jbox1J4](https://user-images.githubusercontent.com/35001605/64623394-da203b00-d423-11e9-92c8-c6b335e8a870.gif)
 
-프로젝트를 구현하며 이게 Binary Search Tree 랑 무슨 관계지? 라고 생각하는 수강생의 얼굴
+프로젝트를 구현하는 수강생의 일그러진 표정
 
 ![8704575b939586f42381144f0aa5c442](https://user-images.githubusercontent.com/35001605/64623429-e7d5c080-d423-11e9-828b-eeab7deeab64.gif)
 
