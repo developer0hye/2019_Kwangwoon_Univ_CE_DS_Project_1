@@ -2,8 +2,6 @@
 
 #include "TreeNode.h"
 #include <iostream>
-#include <vector>
-#include <stack>
 
 class BinarySearchTree
 {
