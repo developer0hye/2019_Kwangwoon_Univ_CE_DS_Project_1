@@ -12,7 +12,7 @@ git clone https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1.g
 
 ```
 make
-./run ShootForLog.txt property(1664)
+./run ShootForLog.txt property(>1664)
 ```
 
 examples)
