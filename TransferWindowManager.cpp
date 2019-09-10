@@ -46,21 +46,21 @@ TransferWindowManager::TransferWindowManager(std::string file_dir, int budget)
 
 std::ostream& operator<<(std::ostream& os, const TransferWindowManager& manager)
 {
-	std::cout << "********Forward List********" << std::endl;
-	std::cout << manager.fwBST;
-	std::cout << "****************************" << std::endl;
+	os << "********Forward List********" << std::endl;
+	os << manager.fwBST;
+	os << "****************************" << std::endl;
 
-	std::cout << "********Midflder List********" << std::endl;
-	std::cout << manager.mfBST;
-	std::cout << "*****************************" << std::endl;
+	os << "********Midflder List********" << std::endl;
+	os << manager.mfBST;
+	os << "*****************************" << std::endl;
 
-	std::cout << "********Defender List********" << std::endl;
-	std::cout << manager.dfBST;
-	std::cout << "*****************************" << std::endl;
+	os << "********Defender List********" << std::endl;
+	os << manager.dfBST;
+	os << "*****************************" << std::endl;
 
-	std::cout << "********Goalkeeper List********" << std::endl;
-	std::cout << manager.gkBST;
-	std::cout << "*******************************" << std::endl;
+	os << "********Goalkeeper List********" << std::endl;
+	os << manager.gkBST;
+	os << "*******************************" << std::endl;
 
 	return os;
 }
