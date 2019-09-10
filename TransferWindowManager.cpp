@@ -1,4 +1,6 @@
 #include "TransferWindowManager.h"
+#include <fstream>
+#include <string>
 
 TransferWindowManager::SoccerTeam::SoccerTeam()
 {
