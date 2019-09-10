@@ -27,7 +27,7 @@ cd 2019_Kwangwoon_Univ_CE_DS_Project_1/
 
 ```
 make
-./run ShootForLog.txt property(>1664)
+./run ShootForLog.txt property(>=1664)
 ```
 
 examples)
