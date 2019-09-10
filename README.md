@@ -17,9 +17,12 @@ quswngud3@kw.ac.kr
 
 ## How to install?
 
+Open the Ubuntu terminal and type the below commands.
+
 ```
 sudo apt-get install git
 git clone https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1.git
+cd 2019_Kwangwoon_Univ_CE_DS_Project_1/
 ```
 
 ## How to build and run?
