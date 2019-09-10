@@ -7,7 +7,7 @@
 
 Please check this before you work on your project.
 
-+) if you find some error or any issues, feel free to upload the issue on this repository or contact by email.
++) If you find some errors or any issues, feel free to upload the issue on this repository or contact by email.
 
 robotmanyh@naver.com
 
