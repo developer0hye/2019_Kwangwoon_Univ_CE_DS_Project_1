@@ -1,7 +1,18 @@
 # 2019_Kwangwoon_Univ_CE_DS_Project_1
 2019년도 광운대학교 컴퓨터정보공학부  데이터 구조 설계 및 실습 1차 프로젝트 스켈레톤 코드
 
+
 ![i13582752589](https://user-images.githubusercontent.com/35001605/64621711-1f8f3900-d421-11e9-83ac-ef74a74d0875.gif)
+
+프로젝트를 할지 말지 고민하는 수강생
+
+![jbox1J4](https://user-images.githubusercontent.com/35001605/64623394-da203b00-d423-11e9-92c8-c6b335e8a870.gif)
+
+프로젝트를 구현하며 이게 Binary Search Tree 랑 무슨 관계지? 라고 생각하는 수강생의 얼굴
+
+![8704575b939586f42381144f0aa5c442](https://user-images.githubusercontent.com/35001605/64623429-e7d5c080-d423-11e9-828b-eeab7deeab64.gif)
+
+프로젝트를 모두 마친 수강생
 
 ## Update Notes
 
