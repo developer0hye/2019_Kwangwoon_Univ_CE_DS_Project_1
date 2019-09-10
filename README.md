@@ -31,4 +31,4 @@ If owner of a club gives you 450 billion won ...
 
 ## How can I check whether my code is correct?
 
-We are now working on that. It will be released with in 3 weeks.
+We are now working on that. It will be released within 3 weeks.
