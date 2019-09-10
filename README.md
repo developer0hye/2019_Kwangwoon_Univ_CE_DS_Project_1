@@ -18,11 +18,17 @@ make
 examples)
 
 If owner of a club gives you 350 billion won ...
+
 ```
 ./run ShootForLog.txt 3500
 ```
 
 If owner of a club gives you 450 billion won ...
+
 ```
 ./run ShootForLog.txt 4500
 ```
+
+## How can I check whether my code is correct?
+
+We are now working on that. It will be released with in 3 weeks.
