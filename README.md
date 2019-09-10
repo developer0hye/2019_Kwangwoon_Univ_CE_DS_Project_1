@@ -7,7 +7,7 @@ Please check this before you work on your project.
 
 This memo includes some changes to help your project.
 
-+) if you find some error or any issues, feel free to upload the issue on this repository or contact by eamil.
++) if you find some error or any issues, feel free to upload the issue on this repository or contact by email.
 
 robotmanyh@naver.com
 
