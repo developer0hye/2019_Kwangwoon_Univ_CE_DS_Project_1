@@ -1,6 +1,8 @@
 # 2019_Kwangwoon_Univ_CE_DS_Project_1
 2019년도 광운대학교 컴퓨터정보공학부  데이터 구조 설계 및 실습 1차 프로젝트 스켈레톤 코드
 
+![i13582752589](https://user-images.githubusercontent.com/35001605/64621711-1f8f3900-d421-11e9-83ac-ef74a74d0875.gif)
+
 ## Update Notes
 
 Please check this before you work on your project.
