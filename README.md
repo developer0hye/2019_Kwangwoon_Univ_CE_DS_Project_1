@@ -13,6 +13,13 @@ quswngud3@kw.ac.kr
 
 2019-09-10. first upload
 
+2019-09-14. remove the useless constructor in class ***BinarySearchTree***
+
+```
+BinarySearchTree(SoccerPlayerData& data); -> You don't need to implement and use this constructor.
+```
+
+
 ## How to install?
 
 Open the Ubuntu terminal and type the below commands.
