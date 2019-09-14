@@ -11,7 +11,6 @@ private:
 
 public:
 	BinarySearchTree() { m_root = NULL; }
-	BinarySearchTree(SoccerPlayerData& data);
 	~BinarySearchTree();
 
 	void insert(SoccerPlayerData& data);
