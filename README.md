@@ -11,14 +11,46 @@ robotmanyh@naver.com
 
 quswngud3@kw.ac.kr
 
-2019-09-10. first upload
+2019-09-10 
 
-2019-09-14. remove the constructor in class ***BinarySearchTree***
+first upload
+
+2019-09-14
+
+remove the constructor in class ***BinarySearchTree***
 
 ```
 BinarySearchTree(SoccerPlayerData& data); -> You don't need to implement and use this constructor.
 ```
 
+2019-09-16
+
+modified the implementation for operator "<<" in class ***TreeNode*** and add functions to access the *m_left* and *m_right*.
+
+Before
+```
+...
+friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
+{
+  // fill in your code to print in-order traversal of a binary search tree
+	return os;
+}
+...
+```
+
+After
+```
+...
+TreeNode* getLeftNode() const { return m_left; } -> newly added function
+TreeNode* getRightNode() const { return m_right; } -> newly added function
+
+friend std::ostream& operator<<(std::ostream& os, const TreeNode* node) -> you don't need to implement or modify this function.
+{
+	os << m_data
+	return os;
+}
+...
+```
 
 ## How to install?
 
