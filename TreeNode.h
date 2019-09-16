@@ -20,10 +20,13 @@ public:
 		this->m_left = left;
 		this->m_right = right;
 	}
+	
+	TreeNode* getLeftNode() const { return m_left; }
+	TreeNode* getRightNode() const { return m_right; }
 
 	friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
 	{
-		// fill in your code to print in-order traversal of a binary search tree
+		os << m_data
 		return os;
 	}
 };
