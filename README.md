@@ -1,6 +1,8 @@
 # 2019_Kwangwoon_Univ_CE_DS_Project_1
 2019년도 광운대학교 컴퓨터정보공학부  데이터 구조 설계 및 실습 1차 프로젝트 스켈레톤 코드
 
+과제 진행에 앞서 정기적으로 Update Notes 를 읽고 업데이트된 내용이 무엇이 있는지 확인하신 후 진행바랍니다.
+
 ## Update Notes
 
 Please check this before you work on your project.
@@ -25,7 +27,7 @@ BinarySearchTree(SoccerPlayerData& data); -> You don't need to implement and use
 
 2019-09-16
 
-modified the implementation for operator "<<" in class ***TreeNode*** and add functions to access the *m_left* and *m_right*.
+modified the implementation of operator "<<" in class ***TreeNode*** and add functions to access the *m_left* and *m_right*.
 
 Before
 ```
