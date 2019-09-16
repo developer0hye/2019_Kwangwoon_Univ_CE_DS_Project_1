@@ -26,7 +26,7 @@ public:
 
 	friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
 	{
-		os << node->m_data
+		os << node->m_data;
 		return os;
 	}
 };
