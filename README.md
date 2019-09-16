@@ -46,7 +46,7 @@ TreeNode* getRightNode() const { return m_right; } -> newly added function
 
 friend std::ostream& operator<<(std::ostream& os, const TreeNode* node) -> you don't need to modify this function.
 {
-	os << m_data
+	os << node->m_data;
 	return os;
 }
 ...
