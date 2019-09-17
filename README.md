@@ -5,7 +5,7 @@
 
 ### 좋은 질문들(명예의 전당)
 
-[질문 1. BST 클래스의 "<<" operator 에서 m_root 를 접근하기 위해 함수를 정의하고 사용했더니 문법 오류가 뜹니다.](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/2)
+[질문 1. BST 클래스의 "<<" operator 에서 m_root 를 접근하기 위해 함수를 정의하고 사용했더니 문법 오류가 발생합니다.](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/2)
 
 ## Update Notes
 
