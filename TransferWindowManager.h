@@ -34,10 +34,7 @@ public:
 
 	TransferWindowManager(std::string file_dir, int budget);
 	
-
 	friend std::ostream& operator<<(std::ostream& os, const TransferWindowManager& manager);
-
-	void removePlayer(SoccerPlayerData data);
 
 	SoccerTeam getBestTeam();
 };
