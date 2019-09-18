@@ -60,7 +60,7 @@ friend std::ostream& operator<<(std::ostream& os, const TreeNode* node) -> you d
 
 2019-09-18
 
-added condition to avoid access null pointer value in the operator "<<" in class ***TreeNode***
+added condition to avoid accessing null pointer value in the operator "<<" in class ***TreeNode***
 
 ```
 friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
