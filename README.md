@@ -58,6 +58,19 @@ friend std::ostream& operator<<(std::ostream& os, const TreeNode* node) -> you d
 ...
 ```
 
+2019-09-18
+
+added condition to avoid access null pointer value in the operator "<<" in class ***TreeNode***
+
+```
+friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
+{
+	if(node != NULL) -> newly added condition
+		os << node->m_data;
+	return os;
+}
+```
+
 ## How to install?
 
 Open the Ubuntu terminal and type the below commands.
