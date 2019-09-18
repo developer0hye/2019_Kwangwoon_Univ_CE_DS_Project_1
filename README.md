@@ -71,6 +71,12 @@ friend std::ostream& operator<<(std::ostream& os, const TreeNode* node)
 }
 ```
 
+remove the member function "void removePlayer(SoccerPlayerData data)" in class ***TransferWindowManager***
+
+```
+void removePlayer(SoccerPlayerData data); -> You don't need to implement and use this constructor.
+```
+
 ## How to install?
 
 Open the Ubuntu terminal and type the below commands.
