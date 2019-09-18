@@ -67,18 +67,6 @@ std::ostream& operator<<(std::ostream& os, const TransferWindowManager& manager)
 	return os;
 }
 
-void TransferWindowManager::removePlayer(SoccerPlayerData data)
-{
-	if (data.m_position == "Forward")
-		fwBST.deletion(data.m_ability);
-	else if (data.m_position == "Midfielder")
-		mfBST.deletion(data.m_ability);
-	else if (data.m_position == "Defender")
-		dfBST.deletion(data.m_ability);
-	else //if (data.m_position == "Goalkeeper"
-		gkBST.deletion(data.m_ability);
-}
-
 TransferWindowManager::SoccerTeam TransferWindowManager::getBestTeam()
 {
 	SoccerTeam best_team;
