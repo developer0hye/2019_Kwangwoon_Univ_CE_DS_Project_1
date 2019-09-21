@@ -7,6 +7,9 @@
 
 [질문 1. BST 클래스의 "<<" operator 에서 m_root 를 접근하기 위해 함수를 정의하고 사용했더니 문법 오류가 발생합니다.](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/2)
 
+### 실습 자료
+[4주차_Project1-1_v2](https://drive.google.com/open?id=1se_q3KILjjyU6YCZSmigngVlQf2g6lOX)
+
 ## Update Notes
 
 Please check this before you work on your project.
