@@ -7,11 +7,12 @@
 
 [질문 1. BST 클래스의 "<<" operator 에서 m_root 를 접근하기 위해 함수를 정의하고 사용했더니 문법 오류가 발생합니다.](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/2)
 
-[질문 2. ShootForLog.txt 파일에 저장된 선수들 중에서 각 줄의 끝에 ' ' 를 포함하는 경우가 존재합니다.]
-(https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/3)
+[질문 2. ShootForLog.txt 파일에 저장된 선수들 중에서 각 줄의 끝에 ' ' 를 포함하는 경우가 존재합니다.](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/3)
 
 ### 실습 자료
+
 [4주차_Project1-1_v2](https://drive.google.com/open?id=1se_q3KILjjyU6YCZSmigngVlQf2g6lOX)
+
 [5주차_Project1-2_v2](https://drive.google.com/open?id=15lZjqYUSXty3Ee3ZjAhQBbKkzCKvYwjW)
 
 ## Update Notes
