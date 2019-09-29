@@ -25,11 +25,11 @@ robotmanyh@naver.com
 
 quswngud3@kw.ac.kr
 
-2019-09-10 
+### 2019-09-10 
 
 first upload
 
-2019-09-14
+### 2019-09-14
 
 remove the constructor in class ***BinarySearchTree***
 
@@ -37,7 +37,7 @@ remove the constructor in class ***BinarySearchTree***
 BinarySearchTree(SoccerPlayerData& data); -> You don't need to implement and use this constructor.
 ```
 
-2019-09-16
+### 2019-09-16
 
 modified the implementation of operator "<<" in class ***TreeNode*** and add functions to access the *m_left* and *m_right*.
 
@@ -66,7 +66,7 @@ friend std::ostream& operator<<(std::ostream& os, const TreeNode* node) -> you d
 ...
 ```
 
-2019-09-18
+### 2019-09-18
 
 added condition to avoid accessing null pointer value in the operator "<<" in class ***TreeNode***
 
@@ -85,7 +85,7 @@ remove the member function "void removePlayer(SoccerPlayerData data)" in class *
 void removePlayer(SoccerPlayerData data); -> You don't need to implement and use this constructor.
 ```
 
-2019-09-29
+### 2019-09-29
 
 fixed the data format problem that some players contain space ' ' end of the line in "ShootForLog.txt".
 
