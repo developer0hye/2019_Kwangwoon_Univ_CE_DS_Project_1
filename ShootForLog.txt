@@ -36,9 +36,9 @@ Luiz, Defender, 741, 65
 Silva, Midfielder, 342, 92
 Toure, Midfielder, 1011, 87
 Vidal, Midfielder, 389, 75
-Schweinsteiger, Midfielder, 713, 91  
+Schweinsteiger, Midfielder, 713, 91
 Robben, Midfielder, 589, 85
-Zidane, Midfielder, 1115, 96 
+Zidane, Midfielder, 1115, 96
 Kang in, Midfielder, 900, 99
 Busquets, Midfielder, 321, 95
 Kroos, Midfielder, 762, 94
