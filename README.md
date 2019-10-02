@@ -15,6 +15,8 @@
 
 [5주차_Project1-2_v3](https://drive.google.com/open?id=15lZjqYUSXty3Ee3ZjAhQBbKkzCKvYwjW)
 
+[6주차_Project1-3_v1](https://drive.google.com/open?id=1WID7APYCuKFpEJKfNpGQFRANXARZP62D)
+
 ## Update Notes
 
 Please check this before you work on your project.
