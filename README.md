@@ -17,6 +17,7 @@
 
 [6주차_Project1-3_v1](https://drive.google.com/open?id=1WID7APYCuKFpEJKfNpGQFRANXARZP62D)
 
+
 ## Update Notes
 
 Please check this before you work on your project.
@@ -126,7 +127,13 @@ If owner of a club gives you 450 billion won ...
 
 ## How can I check whether my code is correct?
 
-We are now working on that. It will be released within 3 weeks.
+[./run ShootForLog.txt 2000](https://drive.google.com/open?id=14TlG9f7jf4DjTmlojxDXEp1EDXJlvUN0)
+[./run ShootForLog.txt 2500](https://drive.google.com/open?id=1zGfh0J4CmHlMjB9_7r_iUVEotpM8Atit)
+[./run ShootForLog.txt 3000](https://drive.google.com/open?id=1E7hVWB99bOvFMMh_HFuneuN-4_SIjjRD)
+[./run ShootForLog.txt 3500](https://drive.google.com/open?id=1uoEowSn5nknaj3L29WIKF_Z755RekeTU)
+[./run ShootForLog.txt 4000](https://drive.google.com/open?id=1jwVK9DeDDWuUO-vqI8G1frMLcDRaLQa9)
+[./run ShootForLog.txt 4500](https://drive.google.com/open?id=1Cj2A9pDCZSOAAx_duqm1SswsHLSA-Ymm)
+[./run ShootForLog.txt 5000](https://drive.google.com/open?id=1wlRD2TtoJrX4RgVn0KdEyJpmJnd8pR9Q)
 
 ## Etc.
 
