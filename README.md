@@ -94,6 +94,12 @@ fixed the data format problem that some players contain space ' ' end of the lin
 
 for detail, refer to [this issue](https://github.com/developer0hye/2019_Kwangwoon_Univ_CE_DS_Project_1/issues/3).
 
+### 2019-10-07
+
+fixed the typing error in TransferWinidowManger.cpp
+
+Midfilder -> Midfielder
+
 ## How to install?
 
 Open the Ubuntu terminal and type the below commands.
