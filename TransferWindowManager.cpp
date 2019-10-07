@@ -52,7 +52,7 @@ std::ostream& operator<<(std::ostream& os, const TransferWindowManager& manager)
 	os << manager.fwBST;
 	os << "****************************" << std::endl;
 
-	os << "********Midflder List********" << std::endl;
+	os << "********Midfielder List********" << std::endl;
 	os << manager.mfBST;
 	os << "*****************************" << std::endl;
 
